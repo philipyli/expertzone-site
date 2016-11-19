@@ -8,10 +8,10 @@ Virtual marketplace of experts designed to help students connect  to tutors and 
 
 ## Partner Integrations
 
-Hosted on NetApp’s Cloud ONTAP 
-Uses RedisLabs database for images and video
-Uses Cortical.io image-to-text Retina API to compare questions and answers
-Uses Citrix Concierge for video conferencing
+* Hosted on NetApp’s Cloud ONTAP 
+* Uses RedisLabs database for images and video
+* Uses Cortical.io image-to-text Retina API to compare questions and answers
+* Uses Citrix Concierge for video conferencing
 
 
 ## Built With
