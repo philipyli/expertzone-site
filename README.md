@@ -19,7 +19,7 @@ Uses Citrix Concierge for video conferencing
 * Agency Bootstrap theme
 
 
-## Authors
+## Teammates
 
  Philip Li, Mary Casserly, Brian Cottrell and Gabi Zuniga
 
